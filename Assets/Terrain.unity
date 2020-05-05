@@ -325,7 +325,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: -0.00000003588201, z: 7.08e-43, w: -0.000000034611446}
+  m_BoundingSphereOverride: {x: 3.932e-42, y: 1.05e-43, z: 7.08e-43, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -857,7 +857,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Scene 1
+  m_Text: 'Scene 1 - Terrain
+
+'
 --- !u!222 &1376046766
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -372,7 +372,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Scene 2
+  m_Text: Scene 2 - Cinemachine
 --- !u!222 &295295720
 CanvasRenderer:
   m_ObjectHideFlags: 0
